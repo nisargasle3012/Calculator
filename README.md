@@ -7,5 +7,4 @@ This calculator represents a seamless blend of aesthetics and functionality, cra
 Features
 
 User-Friendly Interface: Designed with simplicity and ease of use in mind.
-Responsive Design: Works seamlessly on various devices and screen sizes.
 Versatile Functionality: Capable of performing a wide range of basic and complex calculations.
